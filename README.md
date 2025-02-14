@@ -1,3 +1,4 @@
+![Screenshot (71)](https://github.com/user-attachments/assets/c3bcc513-29d7-4c5e-a4e0-bc0d0b2b40a3)
 
 # 🧩 LeetCode-150 Challenge Solutions
 
